@@ -1,0 +1,18 @@
+- Homepage
+- Fazer Login e Criar conta (usuário e autenticação)
+    - Email
+    - Editar perfil
+    - Nome de usuário
+    - Senha
+    - Filme assistidos
+- Filmes/ Séries
+    - Thumbnail
+    - Título
+    - Descrição
+    - Categoria
+    - Qunatidade de views
+    - Data de criação
+    - Episódios
+        - Video
+        - Título
+- Barra de Pesquisa
